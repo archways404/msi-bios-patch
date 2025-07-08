@@ -1,0 +1,5 @@
+{
+	"last_bios_release": "2025-07-03",
+	"webhook_url": "https://discord.com/api/webhooks/xxxxxxxx/yyyyyyyy",
+	"mention_user_ids": ["12345678"]
+}
